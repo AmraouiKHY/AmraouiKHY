@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Khireddine Amraoui</h1>
-<h3 align="center">AI Enthusiast Specializing in Machine Learning, Deep Learning, and Natural Language Processing | Crafting Cutting-Edge Solutions with Neural Networks, Computer Vision, and Large Language Models | Dedicated to Advancing Innovation in AI by Harnessing the Power of Data and Intelligent Algorithms to Drive Impactful Change</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amraouikhy&label=Profile%20views&color=0e75b6&style=flat" alt="amraouikhy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kamraoui780" target="blank"><img src="https://img.shields.io/twitter/follow/kamraoui780?logo=twitter&style=for-the-badge" alt="kamraoui780" /></a> </p>
