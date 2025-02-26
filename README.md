@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Computer Vision and LLM Projects**
 
-- 🌱 I’m currently learning **DL,RL and LLM**
+- 🌱 I’m currently learning **LLMs**
 
-- 👯 I’m looking to collaborate on **ML & DL projects**
+- 👯 I’m looking to collaborate on **ML & llms projects**
 
 - 🤝 I’m looking for **Opportunities for jobs and projects**
 
@@ -18,15 +18,11 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1qZJ3W47Kt0jQRtC6pW2asPcxNH0RMs0N2wxMFKxzG5Q/edit?usp=sharing](https://docs.google.com/document/d/1qZJ3W47Kt0jQRtC6pW2asPcxNH0RMs0N2wxMFKxzG5Q/edit?usp=sharing)
 
-- ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kamraoui780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamraoui780" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khireddine-amraoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khireddine-amraoui" height="30" width="40" /></a>
 <a href="https://kaggle.com/khireddine2cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khireddine2cs" height="30" width="40" /></a>
-<a href="https://fb.com/khireddine amraoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khireddine amraoui" height="30" width="40" /></a>
-<a href="https://instagram.com/khireddine__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khireddine__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
