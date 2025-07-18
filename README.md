@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khireddine Amraoui</h1>
 
-- 🔭 I’m currently working on **Computer Vision and LLM Projects**
+- 🔭 I’m currently working on **Agentic Systems and LLM Projects**
 
 - 🌱 I’m currently learning **LLMs And Ai Agents**
 
