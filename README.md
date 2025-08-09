@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ai Agents**
 
-- 👯 I’m looking to collaborate on **ML & llms projects**
+- 👯 I’m looking to collaborate on **ML, llms & Automation projects**
 
 - 👨‍💻 All of my projects are available at [https://porfolio-psi-one-13.vercel.app/](https://porfolio-psi-one-13.vercel.app/)
 
