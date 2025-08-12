@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khireddine Amraoui</h1>
 <h3 align="center">Artificial intelligence and Data Science Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amraouikhy&label=Profile%20views&color=0e75b6&style=flat" alt="amraouikhy" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amraouikhy" alt="amraouikhy" /></a> </p>
 
 - 🔭 I’m currently working on **Agentic Systems and Automation Projects**
