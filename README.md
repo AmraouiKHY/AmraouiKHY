@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khireddine Amraoui</h1>
 <h3 align="center">Artificial intelligence and Data Science Engineer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amraouikhy" alt="amraouikhy" /></a> </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmraouiKHY)](https://github.com/ryo-ma/github-profile-trophy)
 
 
