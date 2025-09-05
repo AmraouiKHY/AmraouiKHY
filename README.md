@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amraouikhy&show_icons=true&locale=en&layout=compact" alt="amraouikhy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amraouikhy&show_icons=true&locale=en" alt="amraouikhy" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmraouiKHY)](https://github.com/AmraouiKHY/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AmraouiKHY)](https://git.io/streak-stats)
 
