@@ -3,8 +3,7 @@
 🌱 I’m currently learning Ai Agents<br><br>
 👯 I’m looking to collaborate on ML & llms projects<br><br>
 👨‍💻 All of my projects are available at https://porfolio-psi-one-13.vercel.app/<br><br>
-📫 How to reach me amraouikhireddine@gmail.com<br><br>
-📄 Know about my experiences https://docs.google.com/document/d/1qZJ3W47Kt0jQRtC6pW2asPcxNH0RMs0N2wxMFKxzG5Q/edit?usp=sharing<br>
+
 
 
 ## 🌐 Socials:
