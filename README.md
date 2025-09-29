@@ -2,7 +2,7 @@
 🔭 I’m currently working on Agentic Systems and Automation Projects<br><br>
 🌱 I’m currently learning Ai Agents<br><br>
 👯 I’m looking to collaborate on ML & llms projects<br><br>
-👨‍💻 All of my projects are available at https://porfolio-psi-one-13.vercel.app/<br><br>
+👨‍💻 All of my projects are available at https://khireddine-amraoui.vercel.app/<br><br>
 
 
 
